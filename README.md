@@ -1,1 +1,1 @@
-paddydevportfolio.netlify.app
+paddytechportfolio.netlify.app
